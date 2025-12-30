@@ -9,3 +9,12 @@ Understand Azure Resource Groups.
 
 ## Result
 Basic understanding of Azure resource hierarchy.
+
+## Tools Used
+- Azure Portal
+- Resource Groups
+- IAM / RBAC
+
+## What I Learned
+- How resource groups work
+- How to assign access roles
